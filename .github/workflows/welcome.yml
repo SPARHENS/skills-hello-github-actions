@@ -10,4 +10,4 @@ permissions:
 jobs:
   welcome:
      name: welcome job
-     runner: ubuntu-latest
+     runs-on: ubuntu-latest
